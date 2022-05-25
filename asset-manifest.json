@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChatMasti/static/css/main.05cbc94b.css",
+    "main.js": "/ChatMasti/static/js/main.02c4a9a0.js",
+    "index.html": "/ChatMasti/index.html",
+    "main.05cbc94b.css.map": "/ChatMasti/static/css/main.05cbc94b.css.map",
+    "main.02c4a9a0.js.map": "/ChatMasti/static/js/main.02c4a9a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05cbc94b.css",
+    "static/js/main.02c4a9a0.js"
+  ]
+}
